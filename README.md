@@ -8,3 +8,10 @@ Which name in the S&P 500 currently has the best Environmental score? Worst Envi
 2. Scrape the S&P 500 tickers from the Wikipedia page[https://en.wikipedia.org/wiki/List_of_S%26P_500_companies]
 3. Getting environmentScore
 4. Find the best and worst
+
+Session 2HW:
+How does the time series of the low-vol index derived in class for Pharma compare to (a) equal-weighted Pharma index? (b) price-weighted Pharma index? Please plot three series together
+
+1.For the equal-weighted index, I simply assign equal weights to all stocks in the portfolio and calculate the cumulative return series.
+2.For the price-weighted index, I determine the weights based on the most recent prices and calculate the cumulative return series.
+3.Then plot all three series (low volatility, equal-weighted, and price-weighted) together on the same graph to visualize and compare their performances over time.
