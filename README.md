@@ -16,7 +16,6 @@ How does the time series of the low-vol index derived in class for Pharma compar
 2. For the price-weighted index, I determine the weights based on the most recent prices and calculate the cumulative return series
 3. Then plot all three series (low volatility, equal-weighted, and price-weighted) together on the same graph to visualize and compare their performances over time
 
-
 Session 4 HW:
 Based on Alternative text data class session:
 We have extracted the most common bigrams (by TF-IDF) in the ESG Reports corpus.
