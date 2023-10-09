@@ -15,3 +15,11 @@ How does the time series of the low-vol index derived in class for Pharma compar
 1. For the equal-weighted index, I simply assign equal weights to all stocks in the portfolio and calculate the cumulative return series
 2. For the price-weighted index, I determine the weights based on the most recent prices and calculate the cumulative return series
 3. Then plot all three series (low volatility, equal-weighted, and price-weighted) together on the same graph to visualize and compare their performances over time
+
+
+Session 4 HW:
+Based on Alternative text data class session:
+We have extracted the most common bigrams (by TF-IDF) in the ESG Reports corpus.
+
+1. What are the three most common bigrams by TF alone?
+2. What are the three most common bigrams (by TF-IDF) among the reports by (only) large banks?
